@@ -4,7 +4,7 @@ php5.3（最佳）以上+ mysql+ apache；php函数需要开启openssl，独立�
 ### 注意:
 切记不能放在子目录，最好使用apache，IIS不建议用或者就不要用，一些营销活动兼容性差，因为IIS导致营销模块不兼容，请配合换为apache的已满足使用要求。可以用phpstudy等集成环境配置
 
-
+dsfasfasfasa
 将程序解压缩到您网站根目录
 在mysql数据库中建立一个数据库，并导入db.sql文件
 修改data目录下的config.php文件
